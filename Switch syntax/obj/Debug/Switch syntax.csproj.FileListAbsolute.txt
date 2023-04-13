@@ -1,0 +1,7 @@
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\bin\Debug\Switch syntax.exe.config
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\bin\Debug\Switch syntax.exe
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\bin\Debug\Switch syntax.pdb
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\obj\Debug\Switch syntax.csproj.AssemblyReference.cache
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\obj\Debug\Switch syntax.csproj.CoreCompileInputs.cache
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\obj\Debug\Switch syntax.exe
+C:\Users\Aegis\source\repos\Switch syntax\Switch syntax\obj\Debug\Switch syntax.pdb
